@@ -1,0 +1,67 @@
+{
+  "id" : "https://sarasrking.github.io/My IIIF project/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in sarasrking/My-IIIF-project project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1047,
+    "id" : "https://sarasrking.github.io/My IIIF project/images/a7cc1449-3766-4944-b4fe-67086a39a52d/canvas/",
+    "label" : {
+      "none" : [ "a7cc1449-3766-4944-b4fe-67086a39a52d" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://sarasrking.github.io/My IIIF project/images/a7cc1449-3766-4944-b4fe-67086a39a52d/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://sarasrking.github.io/My IIIF project/images/a7cc1449-3766-4944-b4fe-67086a39a52d/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 33,
+              "height" : 38
+            }, {
+              "width" : 66,
+              "height" : 75
+            }, {
+              "width" : 131,
+              "height" : 150
+            }, {
+              "width" : 262,
+              "height" : 300
+            }, {
+              "width" : 524,
+              "height" : 600
+            }, {
+              "width" : 1047,
+              "height" : 1200
+            } ],
+            "profile" : "level0",
+            "width" : 1047,
+            "id" : "https://sarasrking.github.io/My IIIF project/images/a7cc1449-3766-4944-b4fe-67086a39a52d",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1200
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1047,
+          "id" : "https://sarasrking.github.io/My IIIF project/images/a7cc1449-3766-4944-b4fe-67086a39a52d/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1200
+        },
+        "target" : "https://sarasrking.github.io/My IIIF project/images/a7cc1449-3766-4944-b4fe-67086a39a52d/canvas/"
+      } ]
+    } ],
+    "height" : 1200
+  } ]
+}
