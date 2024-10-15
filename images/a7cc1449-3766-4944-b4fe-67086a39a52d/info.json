@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 33,
+    "height" : 38
+  }, {
+    "width" : 66,
+    "height" : 75
+  }, {
+    "width" : 131,
+    "height" : 150
+  }, {
+    "width" : 262,
+    "height" : 300
+  }, {
+    "width" : 524,
+    "height" : 600
+  }, {
+    "width" : 1047,
+    "height" : 1200
+  } ],
+  "profile" : "level0",
+  "width" : 1047,
+  "id" : "https://sarasrking.github.io/My IIIF project/images/a7cc1449-3766-4944-b4fe-67086a39a52d",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1200
+}
